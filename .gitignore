@@ -2,6 +2,7 @@
 CLAUDE.md
 data/*
 !data/*.example.json
+!data/replay_data.json
 .DS_Store
 temp/
 .env
